@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Pauldada's Tarkov",
+        "serverAddress": "http://10.10.12.12:6969",
+        "newPort": "6970"
+    },
+    {
+        "name": "本地服务器",
+        "serverAddress": "http://127.0.0.1:6969",
+        "newPort": "6970"
+    }
+]
